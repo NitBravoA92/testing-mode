@@ -1,6 +1,6 @@
 {
   "name": "testing-mode",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Testing to deploy a webapp build with webpack",
   "private": true,
   "scripts": {
